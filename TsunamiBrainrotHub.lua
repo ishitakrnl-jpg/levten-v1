@@ -1,9 +1,8 @@
--- TsunamiBrainrotHub.lua
+-- TsunamiBrainrotHub Lua Script 
 
--- This is a simple script for Tsunami Brainrot Hub
-
-function welcome()
-    print("Welcome to the Tsunami Brainrot Hub!")
+-- Add Any Required Functions Here
+function main()
+    print("Hello from TsunamiBrainrotHub!")
 end
 
-welcome()
+main()
